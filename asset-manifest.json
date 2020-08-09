@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lavishjain36/todoapp/static/css/main.694312b5.chunk.css",
+    "main.js": "/lavishjain36/todoapp/static/js/main.90ed330b.chunk.js",
+    "main.js.map": "/lavishjain36/todoapp/static/js/main.90ed330b.chunk.js.map",
+    "runtime-main.js": "/lavishjain36/todoapp/static/js/runtime-main.9a095c78.js",
+    "runtime-main.js.map": "/lavishjain36/todoapp/static/js/runtime-main.9a095c78.js.map",
+    "static/js/2.03b3a3f1.chunk.js": "/lavishjain36/todoapp/static/js/2.03b3a3f1.chunk.js",
+    "static/js/2.03b3a3f1.chunk.js.map": "/lavishjain36/todoapp/static/js/2.03b3a3f1.chunk.js.map",
+    "index.html": "/lavishjain36/todoapp/index.html",
+    "precache-manifest.1139f9514fe476649179d825c2abe656.js": "/lavishjain36/todoapp/precache-manifest.1139f9514fe476649179d825c2abe656.js",
+    "service-worker.js": "/lavishjain36/todoapp/service-worker.js",
+    "static/css/main.694312b5.chunk.css.map": "/lavishjain36/todoapp/static/css/main.694312b5.chunk.css.map",
+    "static/js/2.03b3a3f1.chunk.js.LICENSE.txt": "/lavishjain36/todoapp/static/js/2.03b3a3f1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lavishjain36/todoapp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a095c78.js",
+    "static/js/2.03b3a3f1.chunk.js",
+    "static/css/main.694312b5.chunk.css",
+    "static/js/main.90ed330b.chunk.js"
+  ]
+}
